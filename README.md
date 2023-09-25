@@ -1,2 +1,1 @@
-# PREDO
-este es un repositorio de prueba del modulo del precouser de henry
+este proyecto es una prueba de como crear un repositorio y clonarlo de github a mi escritorio local
